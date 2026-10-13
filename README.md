@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PitchPerfect AI — Elevator Pitch Practice Timer
 
 > **Practice smarter. Speak confidently. Make every second count.**
@@ -125,3 +126,6 @@ PitchPerfect AI is deployment-ready for Vercel:
 
 ## 📄 License
 MIT License. Built for elevator pitch mastery.
+=======
+# Elevator-Pitch-Practice-Timer
+>>>>>>> aaeb79414fd5b038c58ae94eafa7567b5e662960
